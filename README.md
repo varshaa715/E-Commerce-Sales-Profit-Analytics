@@ -35,3 +35,5 @@ Business Impact / Insights
 💳 Provides insights into customer payment preferences to enhance checkout experience
 🛠 Helps uncover underperforming segments for strategic improvement
 📊 Supports data-driven decision-making to boost profitability and operational efficiency
+
+Screenshot of the dashboard: https://github.com/varshaa715/E-Commerce-Sales-Profit-Analytics/blob/main/Snapshot%20of%20Ecommerce%20sales%20dashboard%20.jpg
